@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="P2_pa" size="10.000000 15.100671" />
+    <ImageTarget name="P1_pa" size="10.000000 15.000000" />
+    <ImageTarget name="P2_gu" size="10.000000 13.925730" />
+    <ImageTarget name="P2_choki" size="10.000000 14.137931" />
+    <ImageTarget name="P1_gu" size="10.000000 14.010554" />
+    <ImageTarget name="P1_choki" size="10.000000 14.217506" />
+  </Tracking>
+</QCARConfig>
